@@ -32,6 +32,7 @@ export default function BreakingNewsPage({
     <>
       <Head>
         <title key="title">Breaking News</title>
+        <link rel="icon" href="/newspaper.png" />
       </Head>
       <main>
         <h1>Breaking News</h1>
